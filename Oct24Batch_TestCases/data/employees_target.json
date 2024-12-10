@@ -1,0 +1,46 @@
+[
+  {
+    "eno": "E001",
+    "ename": "John Doe",
+    "salary": 55000
+  },
+  {
+    "eno": "E002",
+    "ename": "Jane Smith",
+    "salary": 62000
+  },
+  {
+    "eno": "E003",
+    "ename": "James Brown",
+    "salary": 48000
+  },
+  {
+    "eno": "E004",
+    "ename": "Emily Clark",
+    "salary": 72000
+  },
+  {
+    "eno": "E005",
+    "ename": "Michael Johnson",
+    "salary": 53000
+  },
+  {
+    "eno": "E006",
+    "ename": "Sarah Lee",
+    "salary": 60000
+  },
+  {
+    "eno": "E007",
+    "ename": "David Miller",
+    "salary": 75000
+  },
+  {
+    "eno": "E008",
+    "ename": "Sophia White",
+    "salary": 67000
+  },
+  {
+    "eno": "E009",
+    "ename": "William"
+  }
+  ]
